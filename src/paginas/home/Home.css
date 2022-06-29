@@ -1,0 +1,12 @@
+.titulo
+{
+    color: blueviolet;
+    text-align: center;
+}
+.imagemHome
+{
+    width: 80%;
+    height: 80%;
+    display: block;
+    margin: auto;
+}
